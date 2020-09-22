@@ -1,0 +1,39 @@
+Assignment data manipulation - week 5
+
+Questions to CZ
+
+
+In the tutorial Measures I you had to work a little with biparite graphs. 
+
+In this assignment you are asked to manipulate a bipartite network.
+
+1. load the data nodes_bip and edges_bip from SNA4DS and make it into a 
+bipartite network using the function
+
+graph_from_incidence_matrix
+
+2. Don't forget to add attributes if you have any
+
+3. Make a plot with the bipartite layout showing at least one attribute
+
+--
+
+4. After that, project the bipartite network and work with both projections:
+
+5. plot each of them
+
+6. extract the adjacency matrix for each of them
+
+7. extract the edgelist for each of them 
+
+8. For one of them create a node list as a data frame and add attributes to that
+
+9. Subset the node list by one specific attribute label. 
+
+10. Plot the subnetwork
+
+11. Take the node list again and add one column using the mutate function and the pipe. 
+The column has to inform about which partition you are working with.
+
+
+
