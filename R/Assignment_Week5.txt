@@ -7,8 +7,9 @@ In the tutorial Measures I you had to work a little with biparite graphs.
 
 In this assignment you are asked to manipulate a bipartite network.
 
-1. load the data nodes_bip and edges_bip from SNA4DS and make it into a 
-bipartite network using the function
+1. load the data nodes_bip and links_bip from SNA4DS and make it into a 
+bipartite network using the function OR load the two csv files nodes_bip 
+and edge_bip from the utils folder
 
 graph_from_incidence_matrix
 
