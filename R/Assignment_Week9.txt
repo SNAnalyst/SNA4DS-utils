@@ -1,0 +1,36 @@
+Assignment for Lab week 9
+
+ERGM 1
+
+Consider the media unipartite data we already used in several other activities class. 
+Remember that 
+- nodes are media in the USA
+- edges indicate whether a media mentioned another
+
+1:
+1a Check the data and formulate a Null Hypothesis and one or more alternative hypothesis
+that can be tested running nested ERGMs. 
+
+1b In the nested model you have to insert: 
+- an ER model
+- a P1 model
+- one nodal dyadic independent term or your choice (in relation to your hypothesis) 
+
+1c comment on
+1) which model fits better
+2) significance
+3) coefficients either using probabilities or odd ratios
+4) substantive meaning of your findings
+
+2: 
+2a Come with with a hypothesis different from the one you tested before 
+
+2b find the correct term to test it 
+
+2c fit the model
+
+2d comment on 
+1) which model fits better
+2) significance
+3) coefficients either using probabilities or odd ratios
+4) substantive meaning of your findings
