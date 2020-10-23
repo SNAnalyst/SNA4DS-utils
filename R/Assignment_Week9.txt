@@ -23,14 +23,16 @@ that can be tested running nested ERGMs.
 4) substantive meaning of your findings
 
 2: 
-2a Come with with a hypothesis different from the one you tested before 
+2a Come up with a hypothesis different from the one you tested before 
 
-2b find the correct term to test it 
+2b find the correct term(s) to test it 
 
 2c fit the model
 
 2d comment on 
-1) which model fits better
-2) significance
-3) coefficients either using probabilities or odd ratios
-4) substantive meaning of your findings
+1) significance
+2) coefficients either using probabilities or odd ratios
+3) substantive meaning of your findings
+
+
+
